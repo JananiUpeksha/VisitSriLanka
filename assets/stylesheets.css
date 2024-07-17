@@ -1,0 +1,159 @@
+#home{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding:0;
+}
+#header{
+    background-color: #333333;
+    color: #C0BAB6;
+    margin-top: 0;
+}
+#webTitle{
+    font-size: 36px;
+    margin-bottom: 0;
+    line-height: 1;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+#webSlogan{
+    font-size: 14px;
+}
+#headerInput{
+    padding-top: 20px;
+    margin-top: 20px;
+}
+#button-addon2{
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background-color: #FF9900;
+    border: none;
+    cursor: pointer;
+    border-radius: 0px;
+    margin-left: 15px;
+    height: 30px;
+}
+#searchBar{
+    cursor: pointer;
+    border: 2px solid  #333333;
+    margin-left: 15px;
+    height: 30px;
+    background-color: black;
+}
+#searchBar:focus{
+    border-color: #FFFFFF;
+    box-shadow: none;
+}
+#nav {
+    color: #C0BAB6;
+    background-color: #232323 !important;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.navbar-toggler {
+    background-color: #C0BAB6 !important;
+    border: none;
+}
+.navbar-nav .nav-link {
+    color: #C0BAB6;
+    margin-left: 0px;
+    margin-right: 50px;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #FFFFFF;
+}
+/*gallery section*/
+#box1 {
+    font-size: 25px;
+    background-color: plum;
+    height: 300px;
+}
+#box2 {
+    font-size: 25px;
+    background-color: yellow;
+    height: 300px;
+}
+#box3 {
+    font-size: 25px;
+    background-color: green;
+    height: 300px;
+}
+#box4 {
+    font-size: 25px;
+    background-color: lightblue;
+    height: 300px;
+}
+#box5 {
+    font-size: 25px;
+    background-color: plum;
+    height: 300px;
+}
+#box6 {
+    font-size: 25px;
+    background-color: lightgoldenrodyellow;
+    height: 300px;
+}
+.container {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.box {
+    position: relative; /* Make this container relative */
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+.box .btn {
+    position: absolute; /* Position the button absolutely */
+    bottom: 10px; /* Position from the bottom */
+    right: 10px; /* Position from the right */
+}
+/*activities*/
+#activities{
+    width: 100vw;
+    height: 100vh;
+}
+#activity{
+    margin-top: 200px;
+    width: 100%;
+    background-color: #C0BAB6;
+    height: 600px;
+}
+#more{
+    margin-top: 200px;
+    width: 100%;
+}
+#learnMore{
+    font-size: 40px;
+    border-radius: 30px;
+    width: 95%;
+    margin-top: 200px;
+}
+/*end*/
+#end{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+#footer{
+    position: absolute;
+    bottom: 0;
+}
+#links {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding-bottom: 20px; /* Adjust as necessary */
+}
+#links i {
+    font-size: 24px; /* Adjust as necessary */
+    margin: 0 10px; /* Adjust spacing between icons */
+}
+#buttons{
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+}
