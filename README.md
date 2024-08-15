@@ -1,2 +1,2 @@
 # VisitSriLanka
-This is a website using html,css and bootstrap
+VisitSriLanka is a website designed to practice and showcase skills in HTML, CSS, and JavaScript. The site features a responsive design that ensures it looks good on various devices, and it includes interactive elements such as forms, buttons, and modals. The CSS provides styling for a visually appealing layout, while JavaScript is used to add dynamic functionality and enhance user interactions.
